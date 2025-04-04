@@ -1,0 +1,8 @@
+{
+  "name": "Do you love me?",
+  "short_name": "LoveApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fce5ef",
+  "theme_color": "#fce5ef"
+}
